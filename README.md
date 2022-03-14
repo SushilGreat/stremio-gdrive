@@ -45,7 +45,7 @@ There are two ways to go about:
 {"token": "jhgdfgdhgfh", "refresh_token": "1//sdhgbfdhghd", "token_uri": "https://oauth2.googleapis.com/token", "client_id": "hsdgfjhgfsd.apps.googleusercontent.com", "client_secret": "gfsdfsdgf", "scopes": ["https://www.googleapis.com/auth/drive"]}
 ```
 
-### Skip to [Deploying to heroku](https://github.com/ssnjrthegr8/stremio-gdrive#deploying-to-heroku) if you dont want to use a proxy. Without proxy the addon will only work on stremio desktop (as of sept 7 2021).
+### Skip to [Deploying to heroku](https://github.com/sushilgreat/stremio-gdrive#deploying-to-heroku) if you dont want to use a proxy. Without proxy the addon will only work on stremio desktop (as of sept 7 2021).
 
 21. Go to https://dash.cloudflare.com/ log in or sign up.
 22. Open the Workers option.
@@ -55,7 +55,7 @@ There are two ways to go about:
 
 ### Deploying to heroku:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ssnjrthegr8/stremio-gdrive.git)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sushilgreat/stremio-gdrive.git)
 
 1. Hit the deploy button.
 2. Paste the token string in the token field.
